@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header,
+footer {
+    width: 100;
+    height: 120px;
+    background-color: cornflowerblue;
+    color: lightblue;
+}
+h1,
+h2 {
+    text-align: center;
+    color: midnightblue;
+}
+h1 {
+    text-shadow:
+    2px 2px 2px cyan
+}
+img {
+    display: block;
+    height: 50px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul {
+    padding-left: 40px;
+    font-size: 20px
+}
+p { 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    text-align: center;
+    font-size: 30px;
+}
+.card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid darkblue;
+    box-shadow: 5px 10px midnightblue;
+}

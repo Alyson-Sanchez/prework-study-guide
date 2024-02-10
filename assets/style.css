@@ -51,27 +51,17 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
-ul {
 
-    padding-left: 40px;
-    font-size: 20px
-}
-p { 
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 ul {
+    
     font-family: cursive;
     padding-left: 40px;
     font-size: 20px;
     color: mediumvioletred
 }
 
-p { 
-    font-family: "Papyrus", fantasy;
-}
-
-
 p {
+    font-family: "Papyrus", fantasy;
     text-align: center;
     font-size: 30px;
 }

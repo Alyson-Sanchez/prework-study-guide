@@ -2,21 +2,33 @@
     margin: 0;
     padding: 0;
 }
+html {
+    background-color: rgb(186, 219, 248);
+}
 header,
 footer {
     width: 100;
     height: 120px;
     background-color: cornflowerblue;
-    color: lightblue;
+    color: midnightblue;
+    text-shadow: 
+    2px 2px 2px powderblue
 }
 h1,
 h2 {
     text-align: center;
-    color: midnightblue;
+    font-family: Arial, Helvetica, sans-serif;
 }
+.subHeader {
+    color: midnightblue;
+    text-shadow:
+    2px 2px 2px powderblue}
+h2 { color: mediumvioletred;
+    text-shadow:
+    2px 2px 2px lightcoral}
 h1 {
     text-shadow:
-    2px 2px 2px cyan
+    2px 2px 2px powderblue
 }
 img {
     display: block;
@@ -26,12 +38,16 @@ img {
     margin-right: auto;
 }
 ul {
+    font-family: cursive;
     padding-left: 40px;
-    font-size: 20px
+    font-size: 20px;
+    color: mediumvioletred
 }
+
 p { 
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Papyrus", fantasy;
 }
+
 p {
     text-align: center;
     font-size: 30px;
@@ -39,6 +55,7 @@ p {
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid darkblue;
-    box-shadow: 5px 10px midnightblue;
+    border: 5px solid salmon;
+    box-shadow: 5px 10px palevioletred;
+    background-color: rgb(252, 222, 222);
 }
